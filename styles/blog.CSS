@@ -6,11 +6,14 @@ nav > ul > li{
 nav li > a{
     text-decoration: none;
 }
-footer{
+footer {
     text-align: center;margin-top: 30px;
 }
 article > footer > p > a{
-    margin: 10px;
+    margin: 5px;
     display: inline;
     text-decoration: none;
+}
+.blogtag{
+    font-size: xx-large;text-align: center;background-color: yellow ; color: red;
 }
